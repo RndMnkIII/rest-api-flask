@@ -20,7 +20,7 @@ situarnos en el directorio seccion6/codigo y ejecutar:
 python app.py
 ```
 
-![Captura](https://github.com/RndMnkIII/rest-api-flask/images/captura_app_py.png)
+![Captura](https://github.com/RndMnkIII/rest-api-flask/blob/master/images/captura_app_py.png)
 
 Para hacer pruebas con el API REST se recomienda el entorno de desarrollo de API's Postman.
 
