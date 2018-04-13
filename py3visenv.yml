@@ -1,0 +1,235 @@
+name: py3visenv
+channels:
+- esri
+- conda-forge
+- defaults
+dependencies:
+- altair=1.2.1=py_0
+- asn1crypto=0.22.0=py36_0
+- backports=1.0=py36_1
+- backports.functools_lru_cache=1.4=py36_1
+- basemap=1.1.0=py36_3
+- basemap-data-hires=1.1.0=0
+- bleach=2.0.0=py36_0
+- bokeh=0.12.13=py36_0
+- branca=0.2.0=py_1
+- cffi=1.10.0=py36_0
+- chardet=3.0.4=py36_0
+- click-plugins=1.0.3=py36_0
+- cligj=0.4.0=py36_0
+- cryptography=2.0.3=py36_0
+- curl=7.55.1=0
+- decorator=4.1.2=py36_0
+- descartes=1.1.0=py36_0
+- entrypoints=0.2.3=py36_1
+- expat=2.1.0=3
+- fiona=1.7.10=py36_2
+- folium=0.5.0=py_0
+- fontconfig=2.12.1=5
+- freetype=2.7=2
+- freexl=1.0.2=2
+- gdal=2.1.3=py36_6
+- geopandas=0.3.0=py36_0
+- geopy=1.11.0=py36_0
+- geos=3.6.2=1
+- giflib=5.1.4=0
+- gmp=6.1.2=0
+- hdf4=4.2.13=0
+- hdf5=1.10.1=1
+- html5lib=0.999999999=py36_0
+- icu=58.2=0
+- idna=2.6=py36_1
+- ipykernel=4.6.1=py36_0
+- ipython=6.2.1=py36_0
+- ipython_genutils=0.2.0=py36_0
+- ipywidgets=6.0.1=py36_0
+- jedi=0.10.2=py36_0
+- json-c=0.12.1=0
+- jsonschema=2.6.0=py36_0
+- jupyter_client=5.1.0=py36_0
+- jupyter_core=4.4.0=py_0
+- kealib=1.4.7=4
+- krb5=1.14.2=0
+- libdap4=3.18.3=2
+- libnetcdf=4.4.1.1=10
+- libpq=9.6.3=0
+- libsodium=1.0.15=1
+- libspatialindex=1.8.5=1
+- libspatialite=4.3.0a=17
+- libssh2=1.8.0=2
+- libxslt=1.1.29=5
+- lxml=4.1.1=py36_0
+- matplotlib=2.1.0=py36_1
+- mistune=0.8=py36_0
+- munch=2.2.0=py36_0
+- nbconvert=5.3.1=py_1
+- nbformat=4.4.0=py36_0
+- networkx=2.0=py36_0
+- notebook=5.2.1=py36_2
+- openjpeg=2.1.2=2
+- osmnx=0.6=py36_1
+- owslib=0.15.0=py_0
+- pandas=0.21.0=py36_0
+- pandoc=2.0.0.1=1
+- pandocfilters=1.4.1=py36_0
+- pexpect=4.3.0=py36_0
+- pickleshare=0.7.4=py36_0
+- pillow=4.2.1=py36_0
+- plotly=2.2.3=py36_0
+- proj4=4.9.3=5
+- prompt_toolkit=1.0.15=py36_0
+- psycopg2=2.7.3.2=py36_0
+- ptyprocess=0.5.2=py36_0
+- pycparser=2.18=py36_0
+- pygments=2.2.0=py36_0
+- pyopenssl=17.2.0=py36_0
+- pyproj=1.9.5.1=py36_0
+- pysal=1.14.3=py36_0
+- pyshp=1.2.12=py_0
+- pysocks=1.6.7=py36_0
+- pyyaml=3.12=py36_1
+- pyzmq=16.0.2=py36_2
+- qt=5.6.2=6
+- requests=2.18.4=py36_1
+- rtree=0.8.3=py36_0
+- shapely=1.6.2=py36_1
+- simplegeneric=0.8.1=py36_0
+- sqlalchemy=1.1.13=py36_0
+- sqlite=3.13.0=1
+- terminado=0.6=py36_0
+- testpath=0.3.1=py36_0
+- traitlets=4.3.2=py36_0
+- urllib3=1.22=py36_0
+- vega=0.4.4=py36_1
+- vincent=0.4.4=py36_0
+- wcwidth=0.1.7=py36_0
+- webencodings=0.5=py36_0
+- widgetsnbextension=2.0.1=py36_0
+- yaml=0.1.6=0
+- zeromq=4.2.1=1
+- ca-certificates=2017.08.26=h1d4fec5_0
+- certifi=2017.7.27.1=py36h8b7b77e_0
+- click=6.7=py36h5253387_0
+- cycler=0.10.0=py36h93f1223_0
+- dbus=1.10.22=h3b5a359_0
+- et_xmlfile=1.0.1=py36hd6bccc3_0
+- flask=0.12.2=py36hb24657c_0
+- glib=2.53.6=h5d9569c_2
+- gst-plugins-base=1.12.2=he3457e5_0
+- gstreamer=1.12.2=h4f93127_0
+- intel-openmp=2018.0.0=h15fc484_7
+- itsdangerous=0.24=py36h93cc618_1
+- jdcal=1.3=py36h4c697fb_0
+- jinja2=2.9.6=py36h489bce4_1
+- jpeg=9b=h024ee3a_2
+- libedit=3.1=heed3624_0
+- libffi=3.2.1=hd88cf55_4
+- libgcc=7.2.0=h69d50b8_2
+- libgcc-ng=7.2.0=h7cc24e2_2
+- libgfortran=3.0.0=1
+- libgfortran-ng=7.2.0=h9f7466a_2
+- libiconv=1.14=0
+- libpng=1.6.27=0
+- libstdcxx-ng=7.2.0=h7a57d05_2
+- libtiff=4.0.8=h90200ff_9
+- libxcb=1.12=h84ff03f_3
+- libxml2=2.9.4=0
+- markupsafe=1.0=py36hd9260cd_1
+- mkl=2018.0.0=hb491cac_4
+- ncurses=6.0=h9df7e31_2
+- numpy=1.13.3=py36ha12f23b_0
+- olefile=0.44=py36h79f9f78_0
+- openpyxl=2.4.8=py36h41dd2a8_1
+- openssl=1.0.2m=h26d622b_1
+- pcre=8.41=hc27e229_1
+- pip=9.0.1=py36h6c6f9ce_4
+- pyparsing=2.2.0=py36hee85983_1
+- pyqt=5.6.0=py36h0386399_5
+- python=3.6.2=0
+- python-dateutil=2.6.1=py36h88d3b88_1
+- pytz=2017.2=py36hc2ccc2a_1
+- readline=6.2=2
+- scipy=1.0.0=py36hbf646e7_0
+- setuptools=36.5.0=py36he42e2e1_0
+- sip=4.18.1=py36h51ed4ed_2
+- six=1.11.0=py36h372c433_1
+- tk=8.5.18=0
+- tornado=4.5.2=py36h1283b2a_0
+- util-linux=2.21=0
+- werkzeug=0.12.2=py36hc703753_0
+- wheel=0.29.0=py36he7f4e38_1
+- xerces-c=3.1.4=0
+- xz=5.2.3=h55aa19d_2
+- zlib=1.2.11=ha838bed_2
+- arcgis=1.2.4=py36_1
+- pip:
+  - alabaster==0.7.10
+  - alembic==0.9.8
+  - aniso8601==1.3.0
+  - astroid==1.5.3
+  - babel==2.5.1
+  - backports.functools-lru-cache==1.4
+  - configparser==3.5.0
+  - cx-oracle==6.0.3
+  - docutils==0.14
+  - et-xmlfile==1.0.1
+  - flask-httpauth==3.2.3
+  - flask-jwt==0.3.2
+  - flask-jwt-extended==3.8.1
+  - flask-login==0.4.1
+  - flask-migrate==2.1.1
+  - flask-mysql==1.4.0
+  - flask-qrcode==1.1.2
+  - flask-restful==0.3.6
+  - flask-sqlalchemy==2.3.2
+  - flask-wtf==0.14.2
+  - geoalchemy==0.7.2
+  - geoalchemy2==0.4.2
+  - gevent==1.2.2
+  - greenlet==0.4.13
+  - httpie==0.9.9
+  - imagesize==0.7.1
+  - ipython-genutils==0.2.0
+  - isort==4.2.15
+  - jupyter==1.0.0
+  - jupyter-client==5.1.0
+  - jupyter-console==5.2.0
+  - jupyter-core==4.4.0
+  - lazy-object-proxy==1.3.1
+  - mako==1.0.7
+  - mccabe==0.6.1
+  - mod-wsgi==4.5.22
+  - mysql-connector==2.1.4
+  - mysqlclient==1.3.12
+  - numpydoc==0.7.0
+  - passlib==1.7.1
+  - prompt-toolkit==1.0.15
+  - psutil==5.4.1
+  - pycodestyle==2.3.1
+  - pyflakes==1.6.0
+  - pyjwt==1.4.2
+  - pylint==1.7.4
+  - pymysql==0.7.11
+  - pyopengl==3.1.0
+  - python-dotenv==0.8.2
+  - python-editor==1.0.3
+  - qrcode==5.3
+  - qtawesome==0.4.4
+  - qtconsole==4.3.1
+  - qtpy==1.3.1
+  - redis==2.10.6
+  - reportlab==3.4.0
+  - rope==0.10.7
+  - rq==0.10.0
+  - snowballstemmer==1.2.1
+  - sphinx==1.6.5
+  - sphinxcontrib-websupport==1.0.1
+  - spyder==3.2.4
+  - wrapt==1.10.11
+  - wtforms==2.1
+  - xlrd==1.1.0
+  - xlsxwriter==1.0.2
+  - xlutils==2.0.0
+  - xlwt==1.3.0
+prefix: /home/javier/miniconda2/envs/py3visenv
+
