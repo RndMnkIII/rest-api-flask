@@ -28,7 +28,7 @@ dependencies:
 - fontconfig=2.12.1=5
 - freetype=2.7=2
 - freexl=1.0.2=2
-- gdal=2.1.3=py36_6
+# - gdal=2.2.4=py36_0
 - geopandas=0.3.0=py36_0
 - geopy=1.11.0=py36_0
 - geos=3.6.2=1
@@ -51,15 +51,16 @@ dependencies:
 - kealib=1.4.7=4
 - krb5=1.14.2=0
 - libdap4=3.18.3=2
+# - libgdal=2.2.4=1
 - libnetcdf=4.4.1.1=10
 - libpq=9.6.3=0
 - libsodium=1.0.15=1
 - libspatialindex=1.8.5=1
-- libspatialite=4.3.0a=17
+# - libspatialite=4.3.0a=17
 - libssh2=1.8.0=2
 - libxslt=1.1.29=5
 - lxml=4.1.1=py36_0
-- matplotlib=2.1.0=py36_1
+- matplotlib=2.1.0=py36_0
 - mistune=0.8=py36_0
 - munch=2.2.0=py36_0
 - nbconvert=5.3.1=py_1
@@ -88,7 +89,7 @@ dependencies:
 - pyshp=1.2.12=py_0
 - pysocks=1.6.7=py36_0
 - pyyaml=3.12=py36_1
-- pyzmq=16.0.2=py36_2
+# - pyzmq=16.0.2=py36_2
 - qt=5.6.2=6
 - requests=2.18.4=py36_1
 - rtree=0.8.3=py36_0
@@ -129,7 +130,7 @@ dependencies:
 - libgfortran=3.0.0=1
 - libgfortran-ng=7.2.0=h9f7466a_2
 - libiconv=1.14=0
-- libpng=1.6.27=0
+- libpng=1.6.28=0
 - libstdcxx-ng=7.2.0=h7a57d05_2
 - libtiff=4.0.8=h90200ff_9
 - libxcb=1.12=h84ff03f_3
@@ -158,7 +159,7 @@ dependencies:
 - util-linux=2.21=0
 - werkzeug=0.12.2=py36hc703753_0
 - wheel=0.29.0=py36he7f4e38_1
-- xerces-c=3.1.4=0
+- xerces-c=3.2.0=0
 - xz=5.2.3=h55aa19d_2
 - zlib=1.2.11=ha838bed_2
 - arcgis=1.2.4=py36_1
@@ -231,5 +232,4 @@ dependencies:
   - xlsxwriter==1.0.2
   - xlutils==2.0.0
   - xlwt==1.3.0
-prefix: /home/javier/miniconda2/envs/py3visenv
 

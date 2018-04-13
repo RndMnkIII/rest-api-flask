@@ -9,7 +9,11 @@ base de datos Postgresql.
 ## Instalación
 Instalar el entorno de ejecución miniconda y generar el entorno virtual para Flask con:
 ```
-conda env create -f py3visenv.yml
+bash Miniconda3-latest-Linux-x86_64.sh
+```
+
+```
+conda env create --prefix=/your/path/py3visenv -f py3visenv.yml
 ```
 
 ## Modo de ejecución (Linux):
